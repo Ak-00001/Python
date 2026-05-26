@@ -11,4 +11,11 @@ print(f"Your favourite food is {fav_food}")
 age=25
 print(f"you are {age} years old")
 
-price
+#Float
+price =10.99
+print(f"price is {price}")
+
+#Boolean
+
+is_student = True
+print(f"Are you a student ?: {is_student}")
