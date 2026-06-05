@@ -10,3 +10,12 @@ print(fruit[::2])
 
 for x in fruit:
     print(x)
+
+fruits = {"apple", "orange", "banana", "coconut"}
+print(dir(fruits))
+print("pineapple" in fruits)
+# print(fruits[0])   #error
+
+fruits.add('pineapple')
+fruits.remove("apple")
+fruits.pop()
