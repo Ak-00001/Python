@@ -7,8 +7,9 @@ menu = {"piza":3,
         "chicken": 12,
         "juice": 1,
         "popcorn":100000,
-        "nuggets": 12}
-
+        "nuggets": 12
+        }
+value = []
 cart = []
 total = 0
 for key, value in menu.items():
