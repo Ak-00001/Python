@@ -13,5 +13,5 @@ elif operator == "/":
 elif operator == "*":
     print(f"The Multliplication of {op1} and {op2} is {op1*op2}")
 else:
-    print("Invalid operation")
+    print("Invalid")
 
