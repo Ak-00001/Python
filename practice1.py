@@ -69,3 +69,5 @@ print(math.ceil(9.1))
 print(math.floor(9.9))
 print(math.ceil(9.9))
 print(math.floor(1.2))
+
+print(math.pi)

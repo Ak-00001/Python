@@ -17,3 +17,4 @@ elif operator == "%":
 else:
     print("Invalid")
 
+
